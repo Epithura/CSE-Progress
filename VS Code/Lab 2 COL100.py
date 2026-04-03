@@ -1,6 +1,0 @@
-x=int(input(""))
-y=int(input(""))
-a=int(input(""))
-b=int(input(""))
-print(a*x-b*y)
-print(b*x+a*y)
